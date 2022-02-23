@@ -54,6 +54,6 @@ Yup! Coded for event handlers to be type of 'Task'.
 ## Not done a/p specs and warnings and to do for a full and complete bot connection..
 
 - Not requesting membership
-- Not connecting one SSL (port 6697)
+- Not connecting on SSL (port 6697)
 - Debug option not working but ready to do so..
 - Incoming chat messages (ready, not handled)

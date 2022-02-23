@@ -1,0 +1,8 @@
+.vscode/tasks.json
+.vscode/launch.json
+obj/Debug/net6.0/TwitchLibrary.AssemblyInfo.cs
+obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+obj/Debug/net6.0/TwitchLibrary.AssemblyInfoInputs.cache
+obj/Debug/net6.0/TwitchLibrary.csproj.AssemblyReference.cache
+obj/Debug/net6.0/TwitchLibrary.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/net6.0/TwitchLibrary.GlobalUsings.g.cs
