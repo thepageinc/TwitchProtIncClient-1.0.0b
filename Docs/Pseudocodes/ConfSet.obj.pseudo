@@ -1,0 +1,78 @@
+--------------------------------------------------------------------------------
+Filename  : ConfSet.cs.pseudo
+Purpose   : ...
+Namespace : TwitchProtIncClient.Config
+Author    : ThePageinc
+Created   : Feb. 20th 2022
+Updated   : Feb. 20th 2022
+By        : ThePageinc
+Version   : 0.0.0
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+  Name      : ConfSet 
+  Type      : Object
+  Scope     : Public
+  Author    : ThePageinc
+  Created   : Feb. 20th 2022
+  Updated   : Feb. 20th 2022
+  By        : ThePageinc
+  Version   : 1.0.0b
+--------------------------------------------------------------------------------
+  BEGIN OBJECT
+    INIT CONSTANT CHARACTER   CHAN_PREF           WITH '#'
+    INIT CONSTANT STRING      EOL                 WITH "\r\n"
+    INIT CONSTANT INTEGER     JOIN_DELAY          WITH 2_000
+    INIT CONSTANT STRING      PING_QUERY          WITH "PING"
+    INIT CONSTANT STRING      PING_REPLY          WITH "PONG"
+    INIT CONSTANT INTEGER     PORT                WITH 6667
+    INIT CONSTANT INTEGER     TOKEN_LENGTH        WITH 30
+    INIT CONSTANT STRING      URi                 WITH "irc.chat.twitch.tv"
+    INIT CONSTANT INTEGER     USERNAME_MIN_LENGTH WITH 3
+
+  END OBJECT
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+  Name    : Main (Constructor)
+  Author  : ThePageinc
+  Created : Feb. 20th 2022
+  Updated : Feb. 20th 2022
+  By      : ThePageinc
+  Version : 0.0.1
+--------------------------------------------------------------------------------
+  
+  Pass in     : list of arguments
+
+  Inputs      : none
+
+  Processing  : This method is ...
+
+  Pass out    : none
+
+  Errors      : none
+
+  Output      : none
+
+--------------------------------------------------------------------------------

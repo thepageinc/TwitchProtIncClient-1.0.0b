@@ -1,0 +1,34 @@
+--------------------------------------------------------------------------------
+Filename  : TwitchProtIncClientOptions.obj.pseudo
+Purpose   : ...
+Namespace : TwitchProtIncClient
+Author    : ThePageinc
+Created   : Feb. 20th 2022
+Updated   : Feb. 23rd 2022
+By        : ThePageinc
+Version   : 1.0.0b
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+  Name    : TwitchProtIncClientOptions 
+  Type    : Object
+  Scope   : Public
+  Author  : ThePageinc
+  Created : Feb. 20th 2022
+  Updated : Feb. 23rd 2022
+  By      : ThePageinc
+  Version : 1.0.0b
+--------------------------------------------------------------------------------
+
+  BEGIN OBJECT
+    GETTER BOOLEAN      Debug     INIT WITH false
+    SETTER BOOLEAN      Debug
+    GETTER STRING       Username  INIT WITH "Jerry"
+    SETTER STRING       Username
+    GETTER STRING       Token     INIT WITH null
+    SETTER STRING       Token
+    GETTER BOOLEAN      SSL       INIT WITH false
+    SETTER BOOLEAN      SSL
+  END OBJECT
+
+--------------------------------------------------------------------------------
